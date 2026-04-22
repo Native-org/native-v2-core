@@ -53,3 +53,18 @@ $ forge build
 ```shell
 $ forge fmt
 ```
+
+## ⚖️ License and Copyright
+
+**© 2026 Native Finance. All rights reserved.**
+
+All source code, architecture, and logic contained within this repository are exclusive intellectual property. 
+
+This code has been published publicly **strictly for the purposes of transparency, public review, and on-chain verification**. 
+
+Please be aware that all published contracts are **UNLICENSED**. You are legally prohibited from:
+* Copying, reproducing, or forking this code (in whole or in part).
+* Modifying or creating derivative works.
+* Redeploying this contract or its logic for commercial, personal, or competitive use.
+
+Any unauthorized use, distribution, or deployment is strictly prohibited and will be subject to legal action. If you wish to request permission for specific use cases, please contact: contact@native.org
